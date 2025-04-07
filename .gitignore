@@ -1,0 +1,5 @@
+# Ignore all files in the data folder
+part3/data/*
+
+# But keep the folder itself
+!part3/data/.gitkeep
